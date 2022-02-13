@@ -1,3 +1,3 @@
 # python_auto_bitcoin
 
-#python #AWS EC2 #AI #BITCOIN #VScode
+#python #AWS EC2 #AI #BITCOIN #VScode #jupyter
